@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+html, body {
+   margin: 0; 
+   padding: 0;
+}
+
+.nav {
+    background-color: rgb(238, 201, 38);
+    display: inline;
+    padding: 15px 10px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    text-decoration-line: none;
+    color: antiquewhite; 
+    list-style-type: none;
+    display: flexbox;
+    top: 0;
+    
+}
+
+.nav_text {
+    float: left;
+    font-size: large;
+    list-style-type: none;
+}
+
+ul {
+   list-style-type: none; 
+   margin: 0;
+   padding: 0;
+   overflow: scroll;
+}
+
+li{
+    float: right;
+}
+
+li a {
+    display: inline;
+    color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: large;
+}
+.content {
+   margin: 0 auto;  
+
+
+  
+}
+.Dashboard {
+    padding: 0 10px;
+    border: 2px solid rgb(238, 201, 38);
+    border-radius: 5px;
+    margin: 10% 1% 10% 10%;
+    text-align: left;
+    font-family: 'Lato' , sans-serif;
+    float: left;
+    width: 300px;
+    overflow: hidden;
+
+}
+
+.dashboard_text {
+    padding: 0 20px;
+    text-align: left;
+   
+}
+
+
+.button1 {
+    background-color:  rgb(238, 201, 38);
+    border: none;
+    border-radius: 0px;
+    color: antiquewhite;
+    padding: 30px auto;
+    text-align: center;
+    text-decoration: none; 
+    margin: 0 0 20px 0;
+    font-size: medium;
+}
+
+.Budget {
+    padding: 0 10px;
+    border: 2px solid rgb(238, 201, 38);
+    border-radius: 5px;
+    margin: 10% 0%;
+    text-align: left;
+    font-family: 'Lato' , sans-serif;
+    float: left; 
+    width: 300px;  
+    overflow: hidden;
+}
+
+.budget_text {
+    padding: 0 20px;
+    text-align: left;
+}
+
+.button2 {
+    background-color:  rgb(238, 201, 38);
+    border: none;
+    border-radius: 0px;
+    color: antiquewhite;
+    padding: 30px auto;
+    text-align: center;
+    text-decoration: none; 
+    margin: 0 0 20px 0;
+    font-size: medium; 
+}
+
+.Checkbooks {
+    padding: 0 10px;
+    border: 2px solid rgb(238, 201, 38);
+    border-radius: 5px;
+    margin: 10% 1%;
+    text-align: left;
+    font-family: 'Lato' , sans-serif;
+    float: left; 
+    width: 300px;  
+    overflow: hidden;
+}
+
+.checkbooks_text {
+    padding: 0 20px;
+    text-align: left;
+}
+
+.button3 {
+    background-color:  rgb(238, 201, 38);
+    border: none;
+    border-radius: 0px;
+    color: antiquewhite;
+    padding: 30px auto;
+    text-align: center;
+    text-decoration: none; 
+    margin: 0 0 20px 0;
+    font-size: medium; 
+}
+
+.money {
+    padding: 0 10px;
+    border: 2px solid rgb(238, 201, 38);
+    border-radius: 5px;
+    margin: 10% 0%;
+    text-align: left;
+    font-family: 'Lato' , sans-serif;
+    float: left; 
+    width: 300px; 
+    overflow: hidden; 
+}
+
+.money_text {
+    padding: 0 20px;
+    text-align: left;
+}
+
+.button4 {
+    background-color:  rgb(238, 201, 38);
+    border: none;
+    border-radius: 0px;
+    color: antiquewhite;
+    padding: 30px auto;
+    text-align: center;
+    text-decoration: none; 
+    margin: 0 0 20px 0;
+    font-size: medium; 
+}
+
+
